@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/terminal-header.svg" width="100%" alt="Aaryan Koradia" />
 </p>
-
+ 
 <p align="center">
   <a href="https://in.linkedin.com/in/aaryan-koradia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AaryanKoradia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
