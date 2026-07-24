@@ -1,17 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaryan%20Koradia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Building%20AI%20Products&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Currently+building+KYROO+%F0%9F%A4%96;President+%40+TCS+AI+Aethra+Club;2x+Hackathon+Runner-up+%F0%9F%8F%86" />
-  </a>
+  <img src="./assets/terminal-header.svg" width="100%" alt="Aaryan Koradia" />
 </p>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/aaryan-koradia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AaryanKoradia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:aaryanhkoradia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AaryanKoradia&color=f72585&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
@@ -19,7 +14,6 @@
 - 🎓 Computer Engineering student at Thakur College of Engineering & Technology (9.86 CGPA)
 - 🚀 Currently building **[KYROO](https://kyroo-aaryan.vercel.app)** — an AI life-coaching agent delivered over WhatsApp (Claude API + LangGraph)
 - 📊 Data Analyst Intern experience — Power BI, SQL, Python turning raw data into decisions
-- 🏆 2× National-level hackathon runner-up (Viz-A-Thon, Spectrum 4.0 FinTech)
 - 🧑‍🏫 President, TCS AI Aethra Club — building hands-on AI culture on campus
 - 🎧 Off-duty: music, podcasts, and Marvel
 
@@ -42,12 +36,6 @@
 
 <br/>
 
-<h3 align="center">Streak</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AaryanKoradia&theme=tokyonight&hide_border=true" />
-</p>
-
 <h3 align="center">Contribution Snake</h3>
 
 <p align="center">
@@ -56,35 +44,64 @@
 
 <br/>
 
-### Featured Projects
+### Experience
 
-| Project | What it does |
-|---|---|
-| 🤖 [KYROO](https://github.com/AaryanKoradia/kyroo-aaryan) | AI life-coaching agent on WhatsApp — Next.js, FastAPI, Claude API, LangGraph. [Live demo →](https://kyroo-aaryan.vercel.app) |
-| 🗳️ [Nirnay](https://github.com/AaryanKoradia) | Blockchain-based voting system on Ethereum for tamper-proof elections |
-| 🛒 [Blinkit Data Analysis](https://github.com/AaryanKoradia/Blinkit-Data-Analysis-Project) | Power BI dashboard — fat-content and sales insights across outlets |
-| 🏨 [OYO Rooms Data Analysis](https://github.com/AaryanKoradia/OYO-Rooms-Data-Analysis) | Revenue, occupancy, and RevPAR analytics across hotel properties |
-| 🎵 [Music Platforms Analytics](https://github.com/AaryanKoradia/Music-Platforms-Data-Analysis) | Market trends across the top 25 global music streaming platforms |
+| Role | Where | When |
+|---|---|---|
+| President | TCS AI Aethra Club | Aug 2025 – Present |
+| Data Analyst Intern | GET Tutorials | Oct 2024 – Dec 2024 |
+| Workshop Assistant / Trainer | Freelance / Various Colleges | — |
+| Junior Mobile App Developer | Mobitrail | Jun 2023 – Jul 2023 |
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</p>
+### Achievements
+
+- 🏅 **Best Student of the Department** — Thakur Polytechnic, 2024
+- 🥈 **1st Runner-up, Viz-A-Thon** (EI8: The Architects of Data) — 2024
+- 🥈 **1st Runner-up, Spectrum 4.0 FinTech Hackathon** — SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering, 2024
+
+<br/>
+
+### 🖥️ Software Development Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [KYROO — AI Life OS](https://github.com/AaryanKoradia/kyroo-aaryan) | AI life-coaching agent delivered over WhatsApp. [Live demo →](https://kyroo-aaryan.vercel.app) | Next.js, FastAPI, PostgreSQL, Claude API, LangGraph, WhatsApp API |
+| AI Data Analyst Agent | Automated pipeline that cleans, stores, and visualizes data via workflow automation | n8n, PostgreSQL, Python, Streamlit |
+| Nirnay | Blockchain-based voting system for tamper-proof elections | Ethereum, React, Tailwind CSS, Web3.js, Ganache |
+
+### 📊 Data Analysis Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Blinkit Data Analysis](https://github.com/AaryanKoradia/Blinkit-Data-Analysis-Project) | Fat-consumption and sales insights across outlets | Python, SQL, Power BI |
+| [OYO Rooms Data Analysis](https://github.com/AaryanKoradia/OYO-Rooms-Data-Analysis) | Revenue, occupancy, and RevPAR analytics across hotel properties | Power BI, SQL |
+| [Music Platforms Analytics](https://github.com/AaryanKoradia/Music-Platforms-Data-Analysis) | Market trends across the top 25 global music streaming platforms | Python, Web Scraping, Power Query, Power BI |
+| Braj–Hindi Translation | Machine translation prototype for a low-resource Indian language | Machine Learning, Python, Jupyter Notebook |
+
+<br/>
+
+<p align="center"><em>Open to Software Development and Data Analyst opportunities — let's connect!</em></p>
 
 <!--
 =====================================================================
-SETUP — everything here runs on GitHub's own infrastructure or free
+SETUP — everything below runs on GitHub's own infrastructure or free
 public services. No hosting account of your own needed.
 =====================================================================
 
 1. Create a new PUBLIC repo on GitHub named exactly: AaryanKoradia
    (must match your username exactly — GitHub then shows it on your profile)
-2. Add this file to that repo as README.md — done, it's live immediately.
+2. Add this file to that repo as README.md.
+3. Add terminal-header.svg (the file next to this one) into an "assets/"
+   folder in the same repo, so the path ./assets/terminal-header.svg
+   at the very top of this file resolves correctly.
+4. Replace "YOUR-LEETCODE-HANDLE" in the LeetCode badge link with your
+   actual LeetCode username.
 
-THE CONTRIBUTION SNAKE (the only piece needing one extra step):
-It's generated by a GitHub Action running in the same repo — no external
-site, no account elsewhere. One-time setup:
+THE CONTRIBUTION SNAKE (the only piece needing one extra step, and it
+runs entirely inside GitHub Actions on your own repo — no external
+site, no account elsewhere):
 
 1. In your AaryanKoradia/AaryanKoradia repo, create a file at:
    .github/workflows/snake.yml
@@ -114,13 +131,12 @@ site, no account elsewhere. One-time setup:
            env:
              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-2. Commit it. Go to the repo's "Actions" tab and manually run the
+2. Commit it, then go to the repo's "Actions" tab and manually run the
    "Generate Snake" workflow once (or just push — it also runs on push).
-3. It creates an "output" branch with the SVG. The <img> tag above
-   already points at the right raw URL for this exact setup.
+3. It creates an "output" branch with the SVG, matching the raw URL
+   already used above.
 
-Everything else (typing banner, wave header/footer, streak stats,
-skill icons, shields.io badges, visitor counter) works immediately,
-with zero setup beyond step 1-2 above.
+Everything else (terminal header, skill icons, badges) works
+immediately with zero setup beyond steps 1-3.
 =====================================================================
 -->
