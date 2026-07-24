@@ -1,16 +1,126 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaryan%20Koradia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Building%20AI%20Products&descAlignY=58&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Currently+building+KYROO+%F0%9F%A4%96;President+%40+TCS+AI+Aethra+Club;2x+Hackathon+Runner-up+%F0%9F%8F%86" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/aaryan-koradia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aaryanhkoradia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AaryanKoradia&color=f72585&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<br/>
+
+- 🎓 Computer Engineering student at Thakur College of Engineering & Technology (9.86 CGPA)
+- 🚀 Currently building **[KYROO](https://kyroo-aaryan.vercel.app)** — an AI life-coaching agent delivered over WhatsApp (Claude API + LangGraph)
+- 📊 Data Analyst Intern experience — Power BI, SQL, Python turning raw data into decisions
+- 🏆 2× National-level hackathon runner-up (Viz-A-Thon, Spectrum 4.0 FinTech)
+- 🧑‍🏫 President, TCS AI Aethra Club — building hands-on AI culture on campus
+- 🎧 Off-duty: music, podcasts, and Marvel
+
+<br/>
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,react,nextjs,tailwind,fastapi,django,mysql,postgres,git,github,vercel,androidstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
+
+<br/>
+
+<h3 align="center">Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AaryanKoradia&theme=tokyonight&hide_border=true" />
+</p>
+
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AaryanKoradia/AaryanKoradia/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br/>
+
+### Featured Projects
+
+| Project | What it does |
+|---|---|
+| 🤖 [KYROO](https://github.com/AaryanKoradia/kyroo-aaryan) | AI life-coaching agent on WhatsApp — Next.js, FastAPI, Claude API, LangGraph. [Live demo →](https://kyroo-aaryan.vercel.app) |
+| 🗳️ [Nirnay](https://github.com/AaryanKoradia) | Blockchain-based voting system on Ethereum for tamper-proof elections |
+| 🛒 [Blinkit Data Analysis](https://github.com/AaryanKoradia/Blinkit-Data-Analysis-Project) | Power BI dashboard — fat-content and sales insights across outlets |
+| 🏨 [OYO Rooms Data Analysis](https://github.com/AaryanKoradia/OYO-Rooms-Data-Analysis) | Revenue, occupancy, and RevPAR analytics across hotel properties |
+| 🎵 [Music Platforms Analytics](https://github.com/AaryanKoradia/Music-Platforms-Data-Analysis) | Market trends across the top 25 global music streaming platforms |
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>
 
 <!--
-**AaryanKoradia/AaryanKoradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=====================================================================
+SETUP — everything here runs on GitHub's own infrastructure or free
+public services. No hosting account of your own needed.
+=====================================================================
 
-Here are some ideas to get you started:
+1. Create a new PUBLIC repo on GitHub named exactly: AaryanKoradia
+   (must match your username exactly — GitHub then shows it on your profile)
+2. Add this file to that repo as README.md — done, it's live immediately.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+THE CONTRIBUTION SNAKE (the only piece needing one extra step):
+It's generated by a GitHub Action running in the same repo — no external
+site, no account elsewhere. One-time setup:
+
+1. In your AaryanKoradia/AaryanKoradia repo, create a file at:
+   .github/workflows/snake.yml
+   with this content:
+
+   name: Generate Snake
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: ["main"]
+   jobs:
+     generate:
+       permissions:
+         contents: write
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: AaryanKoradia
+             outputs: dist/github-contribution-grid-snake-dark.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Commit it. Go to the repo's "Actions" tab and manually run the
+   "Generate Snake" workflow once (or just push — it also runs on push).
+3. It creates an "output" branch with the SVG. The <img> tag above
+   already points at the right raw URL for this exact setup.
+
+Everything else (typing banner, wave header/footer, streak stats,
+skill icons, shields.io badges, visitor counter) works immediately,
+with zero setup beyond step 1-2 above.
+=====================================================================
 -->
