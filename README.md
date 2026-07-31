@@ -11,19 +11,8 @@
 
 <br/>
 
-- 🎓 Computer Engineering student at Thakur College of Engineering & Technology (9.86 CGPA)
-- 🚀 Currently building **[KYROO](https://kyroo-aaryan.vercel.app)**, an AI life-coaching agent delivered over WhatsApp (Claude API + LangGraph)
-- 📊 Data Analyst Intern experience with Power BI, SQL, and Python, turning raw data into decisions
-- 🧑‍🏫 President, TCS AI Aethra Club, building hands-on AI culture on campus
-- 🎧 Off-duty: music, podcasts, and Marvel
-
-<br/>
-
-
-<h3 align="center">Contribution Snake</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AaryanKoradia/AaryanKoradia/output/github-contribution-grid-snake-dark.svg" />
+  <img src="./assets/about-cards.svg" width="100%" alt="About Aaryan" />
 </p>
 
 <br/>
@@ -122,9 +111,66 @@
 
 <br/>
 
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AaryanKoradia/AaryanKoradia/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br/>
+
 <p align="center"><em>Open to Software Development and Data Analyst opportunities. Let's connect!</em></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AaryanKoradia&color=39D353&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+<!--
+=====================================================================
+SETUP NOTES
+=====================================================================
+
+1. Create a new PUBLIC repo on GitHub named exactly: AaryanKoradia
+   (must match your username exactly, GitHub then shows it on your profile)
+2. Add this file to that repo as README.md.
+3. Add terminal-header.svg AND about-cards.svg (both files next to this
+   one) into an "assets/" folder in the same repo, so the ./assets/...
+   paths in this file resolve correctly.
+
+THE CONTRIBUTION SNAKE (runs entirely inside GitHub Actions on your own
+repo, no external site, no account elsewhere):
+
+1. In your AaryanKoradia/AaryanKoradia repo, create a file at:
+   .github/workflows/snake.yml
+   with this content:
+
+   name: Generate Snake
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: ["main"]
+   jobs:
+     generate:
+       permissions:
+         contents: write
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: AaryanKoradia
+             outputs: dist/github-contribution-grid-snake-dark.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Commit it, then go to the repo's "Actions" tab and manually run the
+   "Generate Snake" workflow once (or just push, it also runs on push).
+3. It creates an "output" branch with the SVG, matching the raw URL
+   already used above.
+=====================================================================
+-->
