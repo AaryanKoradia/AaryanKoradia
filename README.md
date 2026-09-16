@@ -16,7 +16,7 @@ Computer Engineering student (9.86 CGPA) at Thakur College of Engineering &amp; 
 </p>
 
 <p align="center">
-  <img src="./assets/about-cards.svg" width="100%" alt="About Aaryan: Computer Engineering student with 9.86 CGPA, builder of KYROO (AI life-coaching agent), former Data Analyst Intern, President of TCS AI Aethra Club" />
+  <img src="./assets/about-cards.svg" width="100%" alt="About Aaryan: Computer Engineering student with 9.86 CGPA, builder of KYROO (AI life-coaching agent), former Data Analyst Intern, former President of TCS AI Aethra Club" />
 </p>
 
 <br/>
@@ -100,7 +100,7 @@ Computer Engineering student (9.86 CGPA) at Thakur College of Engineering &amp; 
 
 | Role | Where | When |
 |---|---|---|
-| President | TCS AI Aethra Club | Aug 2025 – Jul 2026 |
+| Former President | TCS AI Aethra Club | Aug 2025 – Jul 2026 |
 | Data Analyst Intern | GET Tutorials | Oct 2024 – Dec 2024 |
 | Workshop Assistant / Trainer | Freelance / Various Colleges | Ongoing |
 | Junior Mobile App Developer | Mobitrail | Jun 2023 – Jul 2023 |
