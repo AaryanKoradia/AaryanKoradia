@@ -12,7 +12,11 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/about-cards.svg" width="100%" alt="About Aaryan" />
+Computer Engineering student (9.86 CGPA) at Thakur College of Engineering &amp; Technology, building AI agents, fintech tools, and data analytics dashboards. Open to Software Development and Data Analyst roles.
+</p>
+
+<p align="center">
+  <img src="./assets/about-cards.svg" width="100%" alt="About Aaryan: Computer Engineering student with 9.86 CGPA, builder of KYROO (AI life-coaching agent), former Data Analyst Intern, President of TCS AI Aethra Club" />
 </p>
 
 <br/>
@@ -78,14 +82,14 @@
 |---|---|---|
 | [KYROO: AI Life OS](https://github.com/AaryanKoradia/kyroo-aaryan) | AI life-coaching agent delivered over WhatsApp. [Live demo →](https://kyroo-aaryan.vercel.app) | Next.js, FastAPI, PostgreSQL, Claude API, LangGraph, WhatsApp API |
 | [Fintech 3C](https://github.com/Prince200510/Fintech_3C) | Financial literacy platform for rural India, voice-friendly and multilingual (English/Hindi), built with a friend. [Live demo →](https://fintech-3c.vercel.app) | React, Vite, Tailwind CSS, FastAPI, MongoDB, JWT, Gemini API |
-| Nirnay | Blockchain-based voting system for tamper-proof elections | Ethereum, React, Tailwind CSS, Web3.js, Ganache |
-| Braj-Hindi Translation | Machine translation prototype for a low-resource Indian language | Machine Learning, Python, Jupyter Notebook |
+| [Nirnay](https://github.com/AaryanKoradia/Nirnay) | Blockchain-based voting system for tamper-proof elections | Ethereum, React, Tailwind CSS, Web3.js, Ganache |
+| [Vraj Bhasha Machine Translation](https://github.com/AaryanKoradia/Vraj-Bhasha-Machine-Translation) | Machine translation prototype for a low-resource Indian language | Machine Learning, Python, Jupyter Notebook |
 
 ### 📊 Data Analysis Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [AI Data Analyst Agent](https://www.linkedin.com/posts/aaryan-koradia_n8n-automation-python-ugcPost-7469445887543472128-Lxgp/) | Upload a CSV and the pipeline stores it in PostgreSQL, cleans it with AI-generated SQL, then surfaces KPIs, visualizations, and dashboard recommendations in Streamlit | n8n, PostgreSQL, Supabase, Python, Google Gemini API, Streamlit |
+| [AI Data Analyst Agent](https://github.com/AaryanKoradia/ai-data-analyst-agent) | Upload a CSV and the pipeline stores it in PostgreSQL, cleans it with AI-generated SQL, then surfaces KPIs, visualizations, and dashboard recommendations in Streamlit. [Demo write-up →](https://www.linkedin.com/posts/aaryan-koradia_n8n-automation-python-ugcPost-7469445887543472128-Lxgp/) | n8n, PostgreSQL, Supabase, Python, Google Gemini API, Streamlit |
 | [Blinkit Data Analysis](https://github.com/AaryanKoradia/Blinkit-Data-Analysis-Project) | Fat-consumption and sales insights across outlets | Python, SQL, Power BI |
 | [OYO Rooms Data Analysis](https://github.com/AaryanKoradia/OYO-Rooms-Data-Analysis) | Revenue, occupancy, and RevPAR analytics across hotel properties | Power BI, SQL |
 | [Music Platforms Analytics](https://github.com/AaryanKoradia/Music-Platforms-Data-Analysis) | Market trends across the top 25 global music streaming platforms | Python, Web Scraping, Power Query, Power BI |
